@@ -19,7 +19,7 @@ My name is Gabriel Menin! I'm a Web Developer and currently undergraduate studen
 
 - ⚡ I’m currently working on **mobile applications**
 
-- 🌱 I’m currently learning about **mobile development with ionic and angular**
+- 🌱 I’m currently learning about **mobile development**
 
 [![Gmail Badge](https://img.shields.io/badge/-gabr.menin@gmail.com%20-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabr.menin@gmail.com)](mailto:gabr.menin@gmail.com)
 
