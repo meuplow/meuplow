@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Gabriel Menin! I'm a Web Developer and currently undergraduate student of Biomedical Informatics at Federal University of Health Sciences of Porto Alegre
+My name is Gabriel Menin! I'm a Web Developer and currently undergraduate student of Biomedical Informatics at Federal University of Health Sciences of Porto Alegre.
 
 - 💻 I’m currently working on **mobile applications**
 
