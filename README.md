@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey 👋
 
 <!--
 **meuplow/meuplow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Gabriel Menin! I'm a Web Developer and currently undergraduate student of Biomedical Informatics at Federal University of Health Sciences of Porto Alegre.
-
-- 💻 I’m currently working on **mobile applications**
+My name is Gabriel Menin! I'm a Web and Mobile Developer and currently undergraduate student of Biomedical Informatics at Federal University of Health Sciences of Porto Alegre.
 
 - 🎓 Computer Technician - Federal Institute of Education, Science and Technology of Rio Grande do Sul
+
+- 💻 I’m currently working on **mobile apps**
 
 - 🌱 I’m currently learning about **mobile development**
 
