@@ -21,9 +21,9 @@ My name is Gabriel Menin! I'm a Web and Mobile Developer and currently undergrad
 
 - 🎓 Computer Technician - Federal Institute of Education, Science and Technology of Rio Grande do Sul
 
-- 💻 I’m currently working on **mobile apps**
+- 💻 I’m currently working on **mobile apps in healthcare** 
 
-- 🌱 I’m currently learning about **mobile development**
+- 🌱 I’m currently learning about **python** and **data science**
 
 [![Gmail Badge](https://img.shields.io/badge/-gabr.menin@gmail.com%20-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabr.menin@gmail.com)](mailto:gabr.menin@gmail.com)
 
