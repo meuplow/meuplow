@@ -33,5 +33,8 @@ My name is Gabriel Menin! I'm a Web and Mobile Developer and currently undergrad
 <br/><br/>
 
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=meuplow&theme=react&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meuplow&layout=compact)]
+
+
 
 
