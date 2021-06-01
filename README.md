@@ -34,6 +34,6 @@ My name is Gabriel Menin! I'm a Web and Mobile Developer and currently undergrad
 
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=meuplow&theme=react&show_icons=true&include_all_commits=true&count_private=true")
 
-<br/><br/>
+
 
 ![Snake animation](https://github.com/meuplow/meuplow/blob/output/github-contribution-grid-snake.svg)
